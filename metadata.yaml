@@ -1,0 +1,5 @@
+homepage: "https://vofficer.io/"
+documentation: "https://support.vofficer.io/"
+versions:
+  - sha: bd066d99833c482d28678e3df3e3366ebcebf1fb
+    changeNotes: Initial release
